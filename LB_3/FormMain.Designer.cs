@@ -37,7 +37,6 @@
             ClientSize = new Size(800, 450);
             Name = "FormMain";
             Text = "Партнеры";
-            Load += OnLoad;
             ResumeLayout(false);
         }
 
